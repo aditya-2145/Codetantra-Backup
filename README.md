@@ -1,12 +1,16 @@
 <div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
 
-# RKGIT CodeTantra Solutions
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=RKGIT+Codetantra+Solutions&center=true&width=800&height=100&color=36BCF7&vCenter=true&size=40&pause=1000">
+</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/110342305/201940666-1012a318-063a-4173-a868-fd47eefdec06.png" alt="RKGIT CodeTantra Logo" width="300" style="border-radius:5px;"/>
 
-<br>
 
-A comprehensive repository of organized CodeTantra lab programs and solutions, tailored to support RKGIT students in their academic journey.
+
+COPY PASTE AND ENJOY
 
 <br>
 
